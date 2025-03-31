@@ -29,6 +29,7 @@ This repository focuses on a user authentication scenario. When a user successfu
 
 Events make it easy to add or modify these actions without changing the core authentication logic.
 
+
 ## Resources
 *https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/events/*
 
